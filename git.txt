@@ -7,12 +7,19 @@
 
 # Krishna
 
-<<<<<<< HEAD
 Work, play, and enjoy
+# 10 lines 
+
+// poonam adwani
+
+# fork
+#clone
+
 =======
 # 10 lines 
 
-// Aditya 
+# Hello !!
+# Shreya
 
 #enjoy
 #travel
@@ -21,3 +28,4 @@ Work, play, and enjoy
 
 #Krishna
 eat, sleep, play, enjoy
+# adding more lines
