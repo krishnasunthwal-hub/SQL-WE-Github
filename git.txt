@@ -4,12 +4,9 @@
 # sleep 
 # Play 
 # 10 lines 
-<<<<<<< HEAD
-=======
 
-// Aditya 
+# Hello !!
+# Shreya
 
-#enjoy
-#travel
-# hello updated
->>>>>>> 4cbaf5cc38e7da58d1654c67f44d033e034dfd38
+# Sql batch  
+# new batch
